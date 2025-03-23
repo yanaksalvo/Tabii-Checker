@@ -22,8 +22,8 @@ Bu Python scripti, `tabii.com` platformundaki hesapların geçerliliğini kontro
 
 ### 1. Projeyi Klonlayın
 
-- `git clone https://github.com/kullanıcıadınız/tabii-hesap-kontrol.git`
--  `cd tabii-hesap-kontrol`
+- `git clone https://github.com/yanaksalvo/Tabii-Checker.git`
+-  `cd Tabii-Checker`
 
 ### 2. Modülleri Yükleyin
 Bağımlılıkları(Modülleri) Yükleyin Gerekli Python kütüphanesini pip ile yükleyin:
